@@ -1,0 +1,22 @@
+.items {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.slick-next:before, .slick-prev:before {
+    color: rgb(19, 124, 138);
+}
+
+.slick-slide, div div:focus {
+    outline: none;
+}
+
+.items__image {
+    width: 220px;
+    height: 155px;
+    margin: auto;
+}
